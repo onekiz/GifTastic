@@ -1,0 +1,22 @@
+.btn {
+  margin:6px;
+}
+
+img{
+  height:300px;
+  width:300px;
+}
+
+body{
+  background-image: url("bg.jpg");
+}
+
+.gifs{
+  height:350px;
+  width:320px;
+  float: left;
+}
+
+#add-animalGif{
+  margin-top:5px;
+}
